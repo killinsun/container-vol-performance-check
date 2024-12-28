@@ -12,6 +12,8 @@ Rancher Desktop is selected by default, but the storage write speed feels slow. 
 
 ### Results
 
+You can see each result in [`results`](https://github.com/killinsun/container-vol-performance-check/tree/main/results) directory.
+
 - QEMU/reverse-sshfs
 - QEMU/9p(128kb)
 - QEMU/9p(512kb)
